@@ -8,7 +8,7 @@
 
 <h5 align="center">
    A secure, client-side encrypted file transfer web app built with Python and Flask.
-Think “mini WeTransfer” but with hacker-grade protection: every file is encrypted using AES before upload and decrypted only after download.
+Think “mini WeTransfer” but with<br>hacker-grade protection: every file is encrypted using AES before upload and decrypted only after download.
 </h5>
 
 ---
@@ -29,13 +29,16 @@ Think “mini WeTransfer” but with hacker-grade protection: every file is encr
 
 ## ⚡️ Local, fast, and easy to run
 
+---
+
 ## 🧪 Tech Stack
 
-Layer	- Tech Used
-Backend -	Python 3.11, Flask
-Encryption - AES (Fernet - cryptography)
-Frontend	- HTML, inline CSS
-UI Theme -	Hacker/Cyberpunk Matrix style
+| Layer       | Tech Used                          |
+|-------------|------------------------------------|
+| **Backend** | Python 3.11, Flask                 |
+| **Encryption** | AES (Fernet - `cryptography`)  |
+| **Frontend** | HTML, inline CSS                  |
+| **UI Theme** | Hacker/Cyberpunk Matrix style     |
 
 --- 
 
