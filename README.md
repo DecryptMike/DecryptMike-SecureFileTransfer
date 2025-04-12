@@ -58,6 +58,7 @@ secure-file-transfer/
 ├── requirements.txt       # Dependencies
 └── README.md              # This file
 ```
+--- 
 
 ## 🚀 Getting Started
 
