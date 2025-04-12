@@ -1,3 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
+![Last Commit](https://img.shields.io/badge/last%20commit-recent-success?style=flat-square)
+![License: MIT](https://img.shields.io/badge/license-MIT-yellowgreen?style=flat-square)
+![Made With](https://img.shields.io/badge/Made%20with-Flask-blue?style=flat-square&logo=flask)
+![🔐 Encrypted](https://img.shields.io/badge/%F0%9F%94%90-AES_Encrypted-444444?style=flat-square)
+![📤 Uploads](https://img.shields.io/badge/Supports-Uploads-007bff?style=flat-square)
+![📥 Downloads](https://img.shields.io/badge/Supports-Downloads-007bff?style=flat-square)
+![💻 Flask](https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask)
+![🧠 Client-Side](https://img.shields.io/badge/Client-Side_Encryption-purple?style=flat-square)
+![🧬 AES](https://img.shields.io/badge/Algorithm-AES_256-orange?style=flat-square)
+
+
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
@@ -130,3 +142,10 @@ Do not use this in production without enhancements such as:
 ---
 
 ## 💻 Built by [@DecryptMike](https://github.com/DecryptMike)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20for-Cybersecurity-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
+</p>
