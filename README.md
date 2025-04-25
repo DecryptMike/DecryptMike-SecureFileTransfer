@@ -28,16 +28,24 @@ Think “mini WeTransfer” but with<br>hacker-grade protection: every file is e
 ## ⚙ Features
 
 - 🔐 Client-side AES encryption using cryptography.fernet
-
 - 📤 Upload & encrypt any file (images, PDFs, docs, zips, etc.)
-
 - 📥 Decrypt & download encrypted .enc files back to their original form
-
 - 🧠 Stylish hacker-inspired UI with Matrix aesthetics
-
 - 💾 File integrity via .key file + Flask routes
-
 - 🔐 Secure folder storage for original, encrypted, and decrypted assets
+  
+---
+
+## 🧠 Skills Demonstrated
+
+- Flask web routing
+- AES encryption (Fernet)
+- File I/O in Python
+- Secure file handling logic
+- Frontend + backend integration
+- Cyber-themed UI/UX
+
+---
 
 ## ⚡️ Local, fast, and easy to run
 
@@ -122,12 +130,6 @@ It’s also a perfect portfolio piece for recruiters to showcase Flask + encrypt
 
 ---
 
-## 🖼️ Preview
-
-(Optional — upload your screenshot and rename it to preview.png)
-
----
-
 ## ⚠️ Disclaimer
 
 This project is for educational use only.
@@ -136,16 +138,7 @@ Do not use this in production without enhancements such as:
 - Authenticated sessions
 - Key rotation
 - Secure HTTPS hosting
-
-## 🧠 Skills Demonstrated
-
-- Flask web routing
-- AES encryption (Fernet)
-- File I/O in Python
-- Secure file handling logic
-- Frontend + backend integration
-- Cyber-themed UI/UX
-
+  
 ---
 
 ## 💻 Built by [@DecryptMike](https://github.com/DecryptMike)
