@@ -43,6 +43,13 @@ Think “mini WeTransfer” but with<br>hacker-grade protection: every file is e
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="Decrypt Mike Secure File Transfer.png" width="100%" alt="Sign In Page">
+</p>
+
+
 ## 🧪 Tech Stack
 
 | Layer       | Tech Used                          |
